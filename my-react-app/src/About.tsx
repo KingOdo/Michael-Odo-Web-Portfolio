@@ -63,6 +63,9 @@ export default function About() {
           {/* Replace with Michael's confirmed biography. */}
           <p className="mt-5 text-sm leading-relaxed text-[#293638] md:text-base">
             Dr. Michael Odo is an accomplished public health physician with over <b>23 years of impactful experience</b> in health systems strengthening, large-scale program management, and clinical service delivery across multiple sub-saharan African countries, including Nigeria, Malawi, South Africa and Liberia.
+            Throughout his career, Dr. Odo has established himself as a strategic leader in the fight against infectious diseases, with a specialized focus on the intersection of HIV and Tuberculosis (TB). His career is defined by his ability to bridge the gap between high-level health policy and on-the-ground clinical implementation, ensuring that large-scale donor investments translate into measurable, sustainable health outcomes for local populations. His extensive portfolio includes direct technical advisory roles to national ministries of health, the management of multi-hundred-million-dollar health grants, and contributions to peer-reviewed implementation science.
+            <br /> 
+            Beyond his technical and clinical career in global health, Dr. Odo is a dedicated mentor, pastor, and published author. His book, <b> In the Footsteps of David Oyedepo (2017)</b>—which has been translated into multiple languages—examines the principles of purposeful leadership, mentorship, and personal development.
           </p>
         </div>
       </section>

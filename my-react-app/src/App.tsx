@@ -5,10 +5,12 @@ import About from "./About";
 import Connect from "./Connect";
 import Portfolio from "./Portfolio";
 import ScrollToTop from "./ScrollToTop";
+import PageMetadata from "./PageMetadata";
 
 export default function App() {
   return (
     <BrowserRouter>
+      <PageMetadata />
       <ScrollToTop />
       <Navbar />
 

@@ -1,7 +1,7 @@
 import { ArrowUpRight } from "lucide-react";
 import { Link } from "react-router-dom";
 import michaelImage from "./assets/img/Michael.jpeg";
-import aboutImage from "./assets/img/michaelimg2.avif";
+import aboutImage from "./assets/img/michaelimg2.png";
 
 import expertiseOne from "./assets/img/expertise-1.jpeg";
 import expertiseTwo from "./assets/img/expertise-2.jpeg";
@@ -164,7 +164,7 @@ export default function Hero() {
       </h2>
 
       <a
-        href="/services"
+        href="/portfolio"
         className="inline-flex shrink-0 items-center gap-3 rounded-sm bg-[#365b63] px-4 py-2.5 text-xs text-white transition-colors hover:bg-[#284850]"
       >
         See More
