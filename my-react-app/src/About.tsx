@@ -3,12 +3,12 @@ import aboutBanner from "./assets/img/about-michael.jpeg";
 import educationImage from "./assets/img/education.jpeg";
 import stethoscopeImage from "./assets/img/sthestoscope.avif";
 
-// Sample credentials—replace with verified details.
+// Credentials
 const credentials = [
-  "Doctor of Medicine (MD)",
-  "Residency in Internal Medicine",
-  "Board Certified in Internal Medicine",
-  "Adult primary & chronic care",
+  "Doctor of Philosophy (PhD): Texila American University",
+  "Master of Public Health(MPH): University of Liverpool, UK(2013)",
+  "Master of Science(MSc): University of Calabar, Nigeria(2005)",
+  "Bachelor of Medicine, Bachelor of Sugery (MB:BCH): University of Calabar, Nigeria(1997)",
 ];
 
 export default function About() {
@@ -62,11 +62,7 @@ export default function About() {
 
           {/* Replace with Michael's confirmed biography. */}
           <p className="mt-5 text-sm leading-relaxed text-[#293638] md:text-base">
-            Dr. Michael is an experienced Internal Medicine specialist
-            dedicated to diagnosing, treating, and preventing a wide
-            range of chronic and complex medical conditions. He focuses
-            on delivering personalized, evidence-based care while
-            building long-term, trusted relationships with his patients.
+            Dr. Michael Odo is an accomplished public health physician with over <b>23 years of impactful experience</b> in health systems strengthening, large-scale program management, and clinical service delivery across multiple sub-saharan African countries, including Nigeria, Malawi, South Africa and Liberia.
           </p>
         </div>
       </section>
